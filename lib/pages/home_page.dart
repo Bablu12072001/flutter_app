@@ -4,7 +4,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     int days = 30;
-    String name = "Bablu";
+    String name = "Bablu kumar";
     return Scaffold(
       appBar: AppBar(
         title: Text("Study app"),
